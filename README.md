@@ -1,5 +1,5 @@
 # ios-breakmedaddy
-These files are to accompany this blog I wrote about how to do iOS reversing. This content was never supposed to be a blog post as i was gonna just make it a simple tiktok video. but now tiktok is my MORTAL enemy, so now it's become a blog. oopsie.
+These files are to accompany a blog I wrote about how to do iOS reversing against this breakmedaddy app. This content was never supposed to be a blog post as i was gonna just make it a simple tiktok video. but now tiktok is my MORTAL enemy, so now it's become a blog. oopsie.
 
 This app is called breakmedaddy and it just has 1 functionality of a pw field. The purpose is to perform an input field bypass and patch ^_^ meeeowww 
 
