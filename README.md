@@ -1,5 +1,8 @@
 # ios-breakmedaddy
-These files are to accompany a blog I wrote about how to do iOS reversing against this breakmedaddy app. This content was never supposed to be a blog post as i was gonna just make it a simple tiktok video. but now tiktok is my MORTAL enemy, so now it's become a blog. oopsie.
+These files are to accompany a blog I wrote about how to do iOS reversing against this breakmedaddy app. 
+https://www.inversecos.com/2022/06/how-to-reverse-engineer-and-patch-ios.html
+
+This content was never supposed to be a blog post as i was gonna just make it a simple tiktok video. but now tiktok is my MORTAL enemy, so now it's become a blog. oopsie.
 
 If you're following my write-up, don't cheat! Just download the "payload.ipa" file as this is the application build for breakmedaddy app. If you unpack this, you'll find the actual breakmedaddy MACH-O file. 
 
